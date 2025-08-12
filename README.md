@@ -11,7 +11,7 @@
     padding: 20px
   }
   .box {
-    display: flex
+    display: fle
     flex-wrap: wrap;
     gap: 15px;
     background: white;
