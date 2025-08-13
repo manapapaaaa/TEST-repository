@@ -9,7 +9,7 @@
     direction: rtl;
     background-color: #eef2f3;
     padding: 20px
-  }
+  
   .box {
     display: fle
     flex-wrap: wrap;
