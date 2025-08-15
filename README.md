@@ -12,7 +12,7 @@
   
   .box {
     display: fle
-    flex-wrap: wrap;
+    flex-wrap: wrap
     gap: 15px;
     background: white;
     padding: 20px;
