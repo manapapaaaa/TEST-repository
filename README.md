@@ -11,7 +11,7 @@
     padding: 20px
   
   .box {
-    display: fle
+    display: fl
     flex-wrap: wrap
     gap: 15px;
     background: white;
