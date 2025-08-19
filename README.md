@@ -7,7 +7,7 @@
   body 
     font-family: sans-serif;
     direction: rtl;
-    background-color: #eef2f3
+    background-color: #eef2f
     padding: 20px
   
   .box {
