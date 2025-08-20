@@ -6,7 +6,7 @@
 <style>
   body 
     font-family: sans-serif;
-    direction: rtl;
+    direction: rtl
     background-color: #eef2f
     padding: 20px
   
