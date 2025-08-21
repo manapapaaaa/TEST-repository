@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>کارت‌های کار</title>
 <style>
-  body 
+  bod
     font-family: sans-serif;
     direction: rtl
     background-color: #eef2f
