@@ -9,7 +9,7 @@
     direction: rtl
     background-color: #eef2f
     padding: 20px
-  
+
   .box {
     display: fl
     flex-wrap: wrap
