@@ -8,7 +8,7 @@
     font-family: sans-serif;
     direction: rtl
     background-color: #eef2f
-    padding: 20px
+    padding: 20p
 
   .box {
     display: fl
