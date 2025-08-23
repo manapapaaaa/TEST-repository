@@ -5,7 +5,7 @@
 <title>کارت‌های کار</title>
 <style>
   bod
-    font-family: sans-serif;
+    font-family: sans-serif
     direction: rtl
     background-color: #eef2f
     padding: 20p
