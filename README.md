@@ -16,7 +16,7 @@
     gap: 15px;
     background: white;
     padding: 20px;
-    border-radius: 12px;
+    border-radius: 12p
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     max-width: 600px;
     margin: auto;
