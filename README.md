@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fa">
-<head>
+<head
 <meta charset="UTF-8">
 <title>کارت‌های کار</title>
 <style>
