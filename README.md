@@ -10,7 +10,7 @@
     background-color: #eef2f
     padding: 20  .box {
     display: fl
-    flex-wrap: wrap
+    flex-wrap: wra
     gap: 15px;
     background: white;
     padding: 20px;
