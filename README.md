@@ -8,7 +8,7 @@
     font-family: sans-serif
     direction: rtl
     background-color: #eef2
-    padding: 20  .box {
+    padding: 20  .box 
     display: fl
     flex-wrap: wr
     gap: 15px;
