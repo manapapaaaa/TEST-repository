@@ -2,7 +2,7 @@
 <html lang="fa">
 <head
 <meta charset="UTF-8">
-<title>کارت‌های کار</title>
+<title>کارت‌های کار</title
 <style>\
   bod
     font-family: sans-serif
