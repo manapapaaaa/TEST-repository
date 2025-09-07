@@ -9,7 +9,7 @@
     direction: rtl
     background-color: #eef2
     padding: 20  .box 
-    display: 
+    display
     flex-wrap: wr
     gap: 15px;
     background: white
