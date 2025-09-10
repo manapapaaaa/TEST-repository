@@ -11,7 +11,7 @@
     padding: 20  .box 
     display
     flex-wrap: wr
-    gap: 15px;
+    gap: 15p
     background: whit
     padding: 20px;
     border-radius: 12p
