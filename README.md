@@ -7,7 +7,7 @@
   bod
     font-family: sans-serif
     direction: rtl
-    background-color: #eef2
+    background-color: #eef
     padding: 20  .box 
     display
     flex-wrap: wr
