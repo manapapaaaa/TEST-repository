@@ -3,7 +3,7 @@
 <hea
 <meta charset="UTF-8">
 <title>کارت‌های کار</title
-<style>\
+<style>
   bod
     font-family: sans-seri
     direction: rtl
