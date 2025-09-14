@@ -9,7 +9,7 @@
     direction: rtl
     background-color: #eef
     padding: 20  .box 
-    display
+    displa
     flex-wrap: wr
     gap: 15p
     background: whit
