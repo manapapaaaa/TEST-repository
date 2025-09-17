@@ -11,7 +11,7 @@
     padding: 20  .bo
     displa
     flex-wrap: wr
-    gap: 15p
+    gap: 15
     background: whit
     padding: 20px;
     border-radius: 12p
