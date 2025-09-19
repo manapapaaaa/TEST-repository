@@ -12,7 +12,7 @@
     displa
     flex-wrap: wr
     gap: 15
-    background: whit
+    background: whi
     padding: 20px;
     border-radius: 12p
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
