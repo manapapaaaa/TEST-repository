@@ -6,7 +6,7 @@
 <style>
   bod
     font-family: sans-s
-    direction: r
+    direction: 
     background-color: #eef
     padding: 20  .b
     displ
