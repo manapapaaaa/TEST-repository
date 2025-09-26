@@ -8,7 +8,7 @@
     font-family: sans-s
     direction: 
     background-color: #eef
-    padding: 20  .b
+    padding: 20  .
     displ
     flex-wrap: wr
     gap: 15
