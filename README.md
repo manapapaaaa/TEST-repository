@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa">
 <hea
-<meta charset="UTF-8">
+<meta charset="UTF-8
 <title>کارت‌های کار</title
 <style>
   bod
