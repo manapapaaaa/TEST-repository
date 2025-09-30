@@ -6,7 +6,7 @@
 <style
   bo
     font-family: sans-s
-    direction: 
+    direction
     background-color: #eef
     padding: 20  .
     displ
