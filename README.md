@@ -5,7 +5,7 @@
 <title>کارت‌های کار</title
 <style
   b
-    font-family: sans-s
+    font-family: sans-
     direction
     background-color: #eef
     padding: 20  .
