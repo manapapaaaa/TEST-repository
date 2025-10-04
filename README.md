@@ -6,7 +6,7 @@
 <style
   b
     font-family: sans-
-    direction
+    directio
     background-color: #eef
     padding: 20  .
     disp
