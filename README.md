@@ -9,7 +9,7 @@
     directio
     background-color: #eef
     padding: 20  .
-    disp
+    dis
     flex-wrap: wr
     gap: 15
     background: whi
