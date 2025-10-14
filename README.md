@@ -7,7 +7,7 @@
     font-family: sa
     directio
     background-color: #eef
-    padding: 20 
+    padding: 2
     dis
     flex-wrap: wr
     gap: 1
