@@ -10,7 +10,7 @@
     padding: 2
     dis
     flex-wrap: wr
-    gap: 
+    gap
     background: whi
     padding: 20px;
     border-radius: 12p
