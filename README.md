@@ -9,7 +9,7 @@
     background-color: #ee
     padding: 2
     dis
-    flex-wrap: wr
+    flex-wrap: w
     gap
     background: whi
     padding: 20px;
