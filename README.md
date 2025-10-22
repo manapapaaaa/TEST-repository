@@ -8,7 +8,7 @@
     directio
     background-color: #ee
     padding: 2
-    dis
+    di
     flex-wrap: w
     gap
     background: wh
