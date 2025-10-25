@@ -11,7 +11,7 @@
     di
     flex-wrap: w
     ga
-    background: wh
+    background: w
     padding: 20px
     border-radius: 12p
     box-shadow: 0 2px 10px rgba(0,0,0,0.1)
