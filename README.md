@@ -26,7 +26,7 @@
     padding: 15px;
     border-radius: 8px;
     text-align: center;
-    transition: transform 0.3s ease, background 0.3s ease;
+    transition: transform 0.3s ease, background 0.3s eas
   }
   .card:hover 
     background-color: #2980b9;
