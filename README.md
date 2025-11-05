@@ -3,7 +3,7 @@
 <hea
 <meta charset="UTF-8
 <title>کارت‌های کار</title
-<style
+<styl
     font-family: sa
     directio
     background-color: #e
