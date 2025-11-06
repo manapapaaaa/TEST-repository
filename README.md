@@ -14,7 +14,7 @@
     background:
     padding: 20p
     border-radius: 12p
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1
+    box-shadow: 0 2px 10px rgba(0,0,0,0.
     max-width: 60
     margin: au
   }
