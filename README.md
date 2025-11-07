@@ -15,7 +15,7 @@
     padding: 20p
     border-radius: 12p
     box-shadow: 0 2px 10px rgba(0,0,0,0.
-    max-width: 60
+    max-width: 6
     margin: au
   }
   .card {
