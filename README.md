@@ -13,7 +13,7 @@
     g
     background:
     padding: 20p
-    border-radius: 1
+    border-radius:
     box-shadow: 0 2px 10px rgba(0,
     max-width: 
     margin: au
