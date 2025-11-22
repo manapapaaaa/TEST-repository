@@ -12,7 +12,7 @@
     flex-wrap
     g
     background:
-    padding: 20p
+    padding: 20
     border-radiu
     box-shadow: 0 2px 10px rgba(
     max-width
