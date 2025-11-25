@@ -34,7 +34,7 @@
   }
 </style>
 </head>
-<body>
+<body
 
 <div class="box">
   <div class="card">کار شماره ۱</div>
