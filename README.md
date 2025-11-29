@@ -9,7 +9,7 @@
     background-color: #e
     padding: 2
     d
-    flex-wra
+    flex-wr
     g
     background:
     padding:
