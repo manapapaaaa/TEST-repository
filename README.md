@@ -12,7 +12,7 @@
     flex-wr
     g
     background:
-    padding
+    paddin
     border-radiu
     box-shadow: 0 2px 10px rgba(
     max-width
