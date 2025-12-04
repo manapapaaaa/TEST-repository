@@ -11,7 +11,7 @@
     d
     flex-wr
     g
-    background
+    backgroun
     paddin
     border-radiu
     box-shadow: 0 2px 10px rgba(
