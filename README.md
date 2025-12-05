@@ -4,7 +4,7 @@
 <meta charset="UTF-8
 <title>کارت‌های کار</title
 <st
-    font-family: sa
+    font-family: s
     directi
     background-color: #e
     padding: 2
