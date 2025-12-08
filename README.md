@@ -15,7 +15,7 @@
     paddin
     border-radiu
     box-shadow: 0 2px 10px rgba
-    max-width
+    max-widt
     margin: au
   }
   .card {
