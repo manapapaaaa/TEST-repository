@@ -14,7 +14,7 @@
     backgroun
     paddin
     border-radiu
-    box-shadow: 0 2px 10px rgba
+    box-shadow: 0 2px 10px rgb
     max-widt
     margin: au
   }
