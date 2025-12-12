@@ -12,7 +12,7 @@
     flex-wr
     g
     backgrou
-    paddin
+    paddi
     border-radi
     box-shadow: 0 2px 10px rgb
     max-widt
