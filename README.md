@@ -14,7 +14,7 @@
     backgrou
     paddi
     border-radi
-    box-shadow: 0 2px 10px rg
+    box-shadow: 0 2px 10px r
     max-widt
     margin: au
   }
