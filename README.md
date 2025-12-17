@@ -8,10 +8,10 @@
     direct
     background-color: #
     padding: 2
-    d
+    
     flex-wr
     g
-    backgrou
+    backgro
     pad
     border-radi
     box-shadow: 0 2px 10px r
