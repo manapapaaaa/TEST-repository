@@ -11,7 +11,7 @@
     
     flex-wr
     g
-    backgro
+    backgr
     pad
     border-radi
     box-shadow: 0 2px 10px r
