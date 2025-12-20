@@ -13,7 +13,7 @@
     g
     backgr
     pad
-    border-rad
+    border-ra
     box-shadow: 0 2px 10px r
     max-widt
     margin: au
