@@ -7,7 +7,7 @@
     font-family: s
     direc
     background-color: #
-    padding: 2
+    padding: 
     
     flex-wr
     g
