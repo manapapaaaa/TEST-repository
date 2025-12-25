@@ -6,7 +6,7 @@
 <st
     font-family: s
     dire
-    background-color: #
+    background-col #
     padding: 
     
     flex-wr
