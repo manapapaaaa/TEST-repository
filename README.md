@@ -5,7 +5,7 @@
 <title>کارت‌های کار</title
 <st
     font-family: s
-    dire
+    dir
     background-col #
     padding: 
     
