@@ -14,7 +14,7 @@
     backg
     pad
     border-ra
-    box-shadow: 0 2px 10px r
+    box-shadow: 0 2px 10px 
     max-wi
     margin: au
   }
