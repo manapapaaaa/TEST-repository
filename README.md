@@ -15,7 +15,7 @@
     pad
     border-ra
     box-shadow: 0 2px 10px 
-    max-wi
+    max-w
     margin: au
   }
   .card {
