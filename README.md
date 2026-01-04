@@ -6,7 +6,7 @@
 <st
     font-amily: s
     di
-    background-col #
+    background-col 
     padding: 
     
     flex-wr
