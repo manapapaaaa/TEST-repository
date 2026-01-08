@@ -7,7 +7,7 @@
     font-amily: s
     di
     background-cl 
-    padding: 
+    padding
     
     flex-wr
     g
