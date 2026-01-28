@@ -2,7 +2,7 @@
 <html lang="fa">
 <hea
 <meta charset="UTF-8
-<title>کارت‌های کار</title
+<title>کارت‌های کار</titl
 <s
     font-amily: s
     d
