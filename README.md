@@ -3,8 +3,7 @@
 hea
 <meta charset="UTF-8
 <title>کارت‌های کار</ti
-<
-    font-amily: s
+    font-amily: 
     
     background-cl 
     padding
