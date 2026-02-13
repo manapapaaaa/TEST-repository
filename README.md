@@ -7,7 +7,7 @@ hea
     
     background-cl 
     padding
-    flex-wr
+    flex-w
     g
     backg
     pad
