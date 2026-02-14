@@ -6,7 +6,7 @@ hea
     font-amily: 
     
     background-cl 
-    padding
+    paddin
     flex-w
     g
     backg
