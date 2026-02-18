@@ -3,7 +3,7 @@
 hea
 <meta charset="UT
 <title>کارت‌های کار<
-    font-amily: 
+    font-amily
     
     background-c
     paddi
