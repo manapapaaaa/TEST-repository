@@ -5,7 +5,7 @@ he
 <title>کارت‌های کار<
     font-amily
     
-    background-c
+    background-
     paddi
     flex-w
     g
