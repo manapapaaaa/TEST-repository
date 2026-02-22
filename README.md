@@ -6,7 +6,7 @@ he
     font-amily
     
     background-
-    paddi
+    padd
     flex-w
     g
     backg
