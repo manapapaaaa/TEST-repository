@@ -5,7 +5,7 @@ h
 <title>کارت‌های کار
     font-amil
     
-    background-
+    background
     padd
     flex-w
     g
