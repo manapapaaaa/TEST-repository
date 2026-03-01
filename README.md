@@ -10,7 +10,7 @@ h
     flex-w
     g
     backg
-    pad
+    pa
     border-r
     box-shadow: 0 2px 10px 
     max-w
