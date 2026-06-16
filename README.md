@@ -3,7 +3,7 @@
 h
 <meta charset="U
 <title>کارت‌های کار
-    font-am
+    font-a
     
     background
     pad
