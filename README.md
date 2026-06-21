@@ -9,7 +9,7 @@
     flex-
     
     backg
-    pa
+    p
     border-r
     box-shadow: 0 2px 10px 
     max-w
