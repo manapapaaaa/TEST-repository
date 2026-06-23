@@ -4,7 +4,7 @@
 <title>کارت‌های کار
     font-a
     
-    background
+    backgroun
     pa
     flex-
     
