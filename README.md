@@ -8,7 +8,7 @@
     p
     flex-
     
-    backg
+    back
     p
     border-r
     box-shadow: 0 2px 10px 
