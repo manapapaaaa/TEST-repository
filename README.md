@@ -9,7 +9,7 @@
     flex-
     back
     p
-    border-r
+    border-
     box-shadow: 0 2px 10px 
     max-w
     margin: au
