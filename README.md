@@ -10,7 +10,7 @@
     back
     p
     border-
-    box-shadow: 0 2px 10px 
+    box-shadow: 0 2px 10p
     max-w
     margin: au
   }
