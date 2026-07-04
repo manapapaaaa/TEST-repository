@@ -11,7 +11,7 @@
     p
     border-
     box-shadow: 0 2px 10p
-    max-w
+    max-
     margin: au
   }
   .card {
