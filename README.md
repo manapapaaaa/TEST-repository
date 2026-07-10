@@ -9,7 +9,7 @@
     flex-
     back
     p
-    borde
+    bord
     box-shadow: 0 2px 10
     max-
     margin: au
