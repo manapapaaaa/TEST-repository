@@ -7,7 +7,7 @@
     backgr
     
     flex-
-    back
+    
     p
     bord
     box-shadow: 0 2px 10
