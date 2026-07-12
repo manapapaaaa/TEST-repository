@@ -6,7 +6,7 @@
     
     backgr
     
-    flex-
+    flex
     
     p
     bord
