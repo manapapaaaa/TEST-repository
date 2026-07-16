@@ -2,7 +2,7 @@
 <html lang="fa"
 <meta charset="U
 <titleکارت‌های کار
-    font-a
+    font
     
     backg
     
