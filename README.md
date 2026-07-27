@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa"
 <meta charset="U
-<titleکارت‌های کار
+<titlکارت‌های کار
     fon
     bac
     fle
