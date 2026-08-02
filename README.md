@@ -8,7 +8,7 @@
     
     
     box-shadow: 0 2px 10
-    max
+    ma
     margin: au
   }
   .card {
