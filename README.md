@@ -7,7 +7,7 @@
     fle
     
     
-    box-shadow: 0 2px 10
+    box-shadow: 0 2px 1
     ma
     margin: au
   }
