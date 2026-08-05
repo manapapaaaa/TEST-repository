@@ -9,7 +9,7 @@
     
     box-shadow: 0 2px 1
     ma
-    margin: au
+    margin: a
   }
   .card {
     flex: 1 1 calc(33% - 15px);
