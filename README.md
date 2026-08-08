@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fa"
-<meta charset="U
+<meta charset="
 <titکارت‌های کار
     fo
     bac
