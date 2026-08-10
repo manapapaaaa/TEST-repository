@@ -3,7 +3,7 @@
 <meta charset="
 <tiکارت‌های کار
     fo
-    bac
+    ba
     fle
     
     box-shadow: 0 2px
