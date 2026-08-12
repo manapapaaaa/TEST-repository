@@ -6,7 +6,7 @@
     ba
     fle
     
-    box-shadow: 0 2p
+    box-shadow: 0 2
     ma
     margin: a
   }
