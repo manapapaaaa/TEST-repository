@@ -7,7 +7,7 @@
     fle
     
     box-shadow: 0 2
-    ma
+    m
     margin: a
   }
   .card {
