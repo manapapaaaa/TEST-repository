@@ -4,7 +4,7 @@
 <tiکارت‌های کار
     fo
     ba
-    fle
+    fl
     
     box-shadow: 0 2
     m
