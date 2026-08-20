@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa"
 <meta charset=
-<tiکارت‌های کار
+<tکارت‌های کار
     f
     b
     fl
