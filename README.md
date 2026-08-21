@@ -6,7 +6,7 @@
     b
     fl
     
-    box-shadow: 0
+    box-shadow: 
     m
     margin: a
   }
