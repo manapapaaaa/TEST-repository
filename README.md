@@ -4,7 +4,7 @@
 <tکارت‌های کار
     f
     b
-    fl
+    
     
     box-shadow: 
     m
