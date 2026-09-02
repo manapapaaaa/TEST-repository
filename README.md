@@ -5,7 +5,7 @@
 
     
     box-shadow: 
-    m
+    
     margin
   }
   .card
