@@ -5,7 +5,6 @@
 
     
     box-shadow: 
-    
     margi
   }
   .card
