@@ -5,7 +5,7 @@
 
     
     box-shadow: 
-    margi
+    mar
   }
   .card
     flex: 1 1 calc(33% - 15px);
