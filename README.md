@@ -4,7 +4,7 @@
 
 
     
-    box-shadow: 
+    box-shado
     mar
   }
   .card
