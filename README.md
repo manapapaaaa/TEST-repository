@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fa"
-<meta charseکارت‌های کار
+<meta charsکارت‌های کار
 
 
     
