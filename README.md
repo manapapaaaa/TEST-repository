@@ -3,7 +3,6 @@
 <meta charsکارت‌های کار
 
 
-    
     box-shado
     mar
   }
