@@ -12,7 +12,7 @@
     background-color: #3498
     color: white
     padding: 15px;
-    border-radius: 8px;
+    border-radius: 8px
     text-align: center;
     transition: transform 0.3s ease, background 0.3s eas
   }
