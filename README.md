@@ -11,7 +11,7 @@
     min-width: 120px;
     background-color: #3498
     color: whit
-    padding: 15px;
+    padding: 15p
     border-radius: 8px
     text-align: center;
     transition: transform 0.3s ease, background 0.3s eas
