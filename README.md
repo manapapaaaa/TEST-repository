@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fa"
-<meta charsکارت‌های کار
+<meta charکارت‌های کار
 
 
     box-shado
