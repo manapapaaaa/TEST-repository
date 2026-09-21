@@ -6,7 +6,7 @@
     box-shado
     mar
   }
-  .c
+  .
     flex: 1 1 calc(33% - 15px
     min-width: 120px;
     background-color: #349
