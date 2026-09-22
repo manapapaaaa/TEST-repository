@@ -9,7 +9,7 @@
   .
     flex: 1 1 calc(33% - 15px
     min-width: 120px;
-    background-color: #349
+    background-color: #34
     color: whit
     padding: 15p
     border-radius: 8px
