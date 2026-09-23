@@ -15,7 +15,7 @@
     border-radius: 8px
     text-align: center;
     transition: transform 0.3s ease, background 0.3s eas
-  }
+  
   .card:hover 
     background-color: #2980b9;
     transform: translateY(-5px);
