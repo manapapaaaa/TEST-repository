@@ -13,7 +13,7 @@
     color: wh
     padding: 15p
     border-radius: 8px
-    text-align: center;
+    text-align: cente;
     transition: transform 0.3s ease, background 0.3s eas
   
   .card:hover 
