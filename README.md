@@ -10,7 +10,7 @@
     flex: 1 1 calc(33% - 15px
     min-width: 120px;
     background-color: #3
-    color: wh
+    color: w
     padding: 15p
     border-radius: 8px
     text-align: cente;
