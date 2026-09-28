@@ -8,7 +8,7 @@
   }
   .
     flex: 1 1 calc(33% - 15px
-    min-width: 120px;
+    min-width: 120px
     background-color: #3
     color: w
     padding: 15p
