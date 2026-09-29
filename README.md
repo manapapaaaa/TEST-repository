@@ -4,7 +4,7 @@
 
 
     box-shado
-    mar
+    ma
   }
   .
     flex: 1 1 calc(33% - 15px
