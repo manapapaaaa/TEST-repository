@@ -7,7 +7,7 @@
     ma
   }
   .
-    flex: 1 1 calc(33% - 15p
+    flex: 1 1 calc(33% - 15
     min-width: 120px
     background-color: #3
     color: w
